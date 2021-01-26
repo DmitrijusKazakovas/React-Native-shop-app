@@ -1,0 +1,1 @@
+In command prompt navigate to the folder with the app and run "expo start" command
